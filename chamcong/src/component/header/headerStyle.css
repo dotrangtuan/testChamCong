@@ -1,0 +1,11 @@
+.title {
+    background-color: gold;
+    padding: 4px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.nav {
+    height: 60px;
+    border: 1px solid gray;
+}
